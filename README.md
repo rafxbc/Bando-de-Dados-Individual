@@ -6,11 +6,3 @@
 $$ Sobre o Projeto $$
 <p align="center">Relação DELEGACIA - DENUNCIA.</p>
 <div align="center">
-
-  ## Modelo Conceitual
-<img src="![image](![modelologico drawio](https://github.com/rafxbc/IndividualBD/assets/162373363/0b502550-5641-4bcd-8fba-deffddf29c94)
-">
-  
-  ## Modelo Lógico
-<img src="![image](https://github.com/rafxbc/IndividualBD/assets/162373363/a4110930-fc4f-44d9-abe9-25950f51e1e9)">
-</div>
