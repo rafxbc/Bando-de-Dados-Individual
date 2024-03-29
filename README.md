@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![**](pinguim.jpg)
+![**](capa.jpg)
   
 </div>
 
